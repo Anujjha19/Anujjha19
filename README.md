@@ -6,13 +6,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/anujjha19">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="anujjha710@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-red?style=for-the-badge&logo=contact&logoColor=white" alt="Contact Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/anujjhaa19">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
