@@ -1,9 +1,23 @@
 <h1 align="center">Hi 👋, I'm Anuj Jha</h1>
 <h3 align="center">A passionate Learner and a Frontend Developer from India.</h3>
 
+<div id="header" align="center">
+  <img src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="100"/>
+</div>
 
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anujjha19&label=Profile%20views&color=0e75b6&style=flat" alt="anujjha19" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anujjha19&label=Profile%20views&color=0e75b6&style=flat" alt="anujjha19" /> </p>
 
 - 🌱 I’m currently learning **DSA, JavaScript and ReactJs**
 
